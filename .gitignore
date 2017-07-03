@@ -1,0 +1,8 @@
+*.meta
+*.anim
+Assets/Animation/GameOver.controller
+*.controller
+*.unity
+*.mat
+*.prefab
+*.ttf
